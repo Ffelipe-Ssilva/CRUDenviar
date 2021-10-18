@@ -15,7 +15,6 @@ public static void main(String[] args) {
 	objTest.update_data("2", "22", "sarisa", "sarisa@hotmail");
 	
 	objTest.read_data("2");
-        //delete data
 	objTest.delete_data("1");
 }
 
